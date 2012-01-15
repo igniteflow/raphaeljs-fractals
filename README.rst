@@ -1,7 +1,14 @@
 raphaeljs-fractals
 ==================
 
-Some simple experiments in drawing fractals using the **raphaeljs** javascript vector graphics library
+Some simple experiments in drawing fractals using the **raphaeljs** javascript vector graphics library.
+Live example at:
+
+http://igniteflow.com/raphaeljs-fractals/
+
+
+References
+----------
 
 http://raphaeljs.com/
 
